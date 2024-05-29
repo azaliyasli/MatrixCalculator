@@ -14,7 +14,7 @@ public class MatrixCalculator {
         int Matrix1 [][] = new int[n][n];
         int Matrix2 [][] = new int[n][n];
 
-        MatrixCalculator c = new MatrixCalculator();
+        Operations c = new Operations();
 
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
